@@ -5,5 +5,6 @@ tes github belajar
 - pyton
 - ios
 - java script
+  # laravel
 - c++
 - c#
