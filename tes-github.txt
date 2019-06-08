@@ -1,0 +1,6 @@
+tes github belajar
+- android studio
+- java
+- kotlin
+- pyton
+- java script
